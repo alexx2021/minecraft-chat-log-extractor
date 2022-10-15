@@ -8,6 +8,10 @@ __pycache__/
 *.pyc
 *.json
 *.db
+/unzippedLogs
+/logs
+chatMessages.txt
+
 
 # C extensions
 *.so
