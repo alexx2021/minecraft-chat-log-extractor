@@ -11,6 +11,7 @@ __pycache__/
 /unzippedLogs
 /logs
 chatMessages.txt
+otherMessages.txt
 
 
 # C extensions
